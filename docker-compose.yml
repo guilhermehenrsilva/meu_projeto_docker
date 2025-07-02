@@ -10,4 +10,4 @@ services:
       - "8080:80"
 
     volumes:
-      - ./CRUD-Pesqueiro:/var/www/html/CRUD-Pesqueiro
+      - ./CRUD-Pesqueiro:/var/www/html/CRUD-Pesqueiro 
